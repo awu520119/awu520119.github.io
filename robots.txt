@@ -1,3 +1,13 @@
 User-agent: *
+<<<<<<< HEAD
 Disallow: /
 Sitemap: http://localhost:1313/sitemap.xml
+=======
+<<<<<<< HEAD
+Disallow: /
+Sitemap: http://localhost:1313/sitemap.xml
+=======
+Disallow:
+Sitemap: https://awu520119.github.io/sitemap.xml
+>>>>>>> 8a2cacb (8月27提交)
+>>>>>>> efb0df7 (8月27日提交)
