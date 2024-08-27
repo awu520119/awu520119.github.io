@@ -2,40 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Second on 🔪喵喵不二刀</title>
-<<<<<<< HEAD
     <link>http://localhost:1313/tags/second/</link>
-=======
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/second/</link>
-=======
-    <link>https://awu520119.github.io/tags/second/</link>
->>>>>>> 8a2cacb (8月27提交)
->>>>>>> efb0df7 (8月27日提交)
     <description>Recent content in Second on 🔪喵喵不二刀</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 26 Aug 2024 20:26:57 +0800</lastBuildDate>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> efb0df7 (8月27日提交)
     <atom:link href="http://localhost:1313/tags/second/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Mon, 26 Aug 2024 20:26:57 +0800</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-<<<<<<< HEAD
-=======
-=======
-    <atom:link href="https://awu520119.github.io/tags/second/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>https://awu520119.github.io/posts/first/</link>
-      <pubDate>Mon, 26 Aug 2024 20:26:57 +0800</pubDate>
-      <guid>https://awu520119.github.io/posts/first/</guid>
->>>>>>> 8a2cacb (8月27提交)
->>>>>>> efb0df7 (8月27日提交)
       <description>这里面是内容 这里面是内容这里面是内容这里面是内容这里面是内容这里面是内容这里面是内容这里面是内容这里面是内容这里面是内容这里面是内容这里面是</description>
     </item>
   </channel>

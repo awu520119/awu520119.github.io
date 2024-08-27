@@ -2,24 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on 🔪喵喵不二刀</title>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> efb0df7 (8月27日提交)
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on 🔪喵喵不二刀</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>zh</language>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-<<<<<<< HEAD
-=======
-=======
-    <link>https://awu520119.github.io/categories/</link>
-    <description>Recent content in Categories on 🔪喵喵不二刀</description>
-    <generator>Hugo -- 0.133.0</generator>
-    <language>zh</language>
-    <atom:link href="https://awu520119.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 8a2cacb (8月27提交)
->>>>>>> efb0df7 (8月27日提交)
   </channel>
 </rss>

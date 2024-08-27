@@ -2,59 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on 🔪喵喵不二刀</title>
-<<<<<<< HEAD
     <link>http://localhost:1313/tags/</link>
-=======
-<<<<<<< HEAD
-    <link>http://localhost:1313/tags/</link>
-=======
-    <link>https://awu520119.github.io/tags/</link>
->>>>>>> 8a2cacb (8月27提交)
->>>>>>> efb0df7 (8月27日提交)
     <description>Recent content in Tags on 🔪喵喵不二刀</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 26 Aug 2024 20:26:57 +0800</lastBuildDate>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> efb0df7 (8月27日提交)
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
       <link>http://localhost:1313/tags/first/</link>
       <pubDate>Mon, 26 Aug 2024 20:26:57 +0800</pubDate>
       <guid>http://localhost:1313/tags/first/</guid>
-<<<<<<< HEAD
-=======
-=======
-    <atom:link href="https://awu520119.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>https://awu520119.github.io/tags/first/</link>
-      <pubDate>Mon, 26 Aug 2024 20:26:57 +0800</pubDate>
-      <guid>https://awu520119.github.io/tags/first/</guid>
->>>>>>> 8a2cacb (8月27提交)
->>>>>>> efb0df7 (8月27日提交)
       <description></description>
     </item>
     <item>
       <title>Second</title>
-<<<<<<< HEAD
       <link>http://localhost:1313/tags/second/</link>
       <pubDate>Mon, 26 Aug 2024 20:26:57 +0800</pubDate>
       <guid>http://localhost:1313/tags/second/</guid>
-=======
-<<<<<<< HEAD
-      <link>http://localhost:1313/tags/second/</link>
-      <pubDate>Mon, 26 Aug 2024 20:26:57 +0800</pubDate>
-      <guid>http://localhost:1313/tags/second/</guid>
-=======
-      <link>https://awu520119.github.io/tags/second/</link>
-      <pubDate>Mon, 26 Aug 2024 20:26:57 +0800</pubDate>
-      <guid>https://awu520119.github.io/tags/second/</guid>
->>>>>>> 8a2cacb (8月27提交)
->>>>>>> efb0df7 (8月27日提交)
       <description></description>
     </item>
   </channel>
