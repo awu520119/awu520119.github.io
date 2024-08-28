@@ -1,0 +1,79 @@
+baseURL: 
+languageCode: en-us
+title: 🔪喵喵不二刀
+theme: ["PaperMod"]
+
+paginate: 5
+
+enableInlineShortcodes: true # shortcode，类似于模板变量，可以在写 markdown 的时候便捷地插入，官方文档中有一个视频讲的很通俗
+hasCJKLanguage: true # 是否有 CJK 的字符
+enableRobotsTXT: true # 允许生成 robots.txt
+buildDrafts: false # 构建时是否包括草稿
+buildFuture: false # 构建未来发布的内容
+buildExpired: false # 构建过期的内容
+enableEmoji: true # 允许 emoji
+pygmentsUseClasses: true
+defaultContentLanguage: zh # 顶部首先展示的语言界面
+defaultContentLanguageInSubdir: false # 是否要在地址栏加上默认的语言代码
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+
+
+languages:
+  zh:
+    languageName: "中文" # 展示的语言名
+    weight: 1 # 权重
+    taxonomies: # 分类系统
+      category: categories
+      tag: tags
+
+params:
+  homeInfoParams:
+    Title: "Hello!"
+    Content: "这里是🔪喵喵不二刀的个人博客"
+  cover:
+    linkFullImage: true
+  
+#  ShowReadingTime: true
+  ShowPostNavLinks: true
+#  ShowBreadCrumbs: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  TocOpen: true
+
+#  socialIcons:
+#    name: "github"
+#    url: "https://github.com"
+#    name：facebook
+#    url：https://www.facebook.com/
+#    name：twitter
+#    url：https://twitter.com/
+  assets:
+        favicon: "favicon.png"
+        favicon16x16: "favicon.png"
+        favicon32x32: "favicon.png"
+        apple_touch_icon: "favicon.png"
+        safari_pinned_tab: "favicon.png"
+
+menu:
+  main:
+    - identifier: "Home"
+      name: "首页"
+      url: "/"
+      weight: 10
+    - identifier: "Tags"
+      name: "标签"
+      url: "/tags/"
+      weight: 20
+    - identifier: "Archive"
+      name: "归档"
+      url: "/archives/"
+      weight: 30
+    - identifier: "About"
+      name: "关于"
+      url: "/about/"
+      weight: 40
